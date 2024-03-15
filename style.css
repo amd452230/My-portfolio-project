@@ -62,20 +62,20 @@ p{
 }
 
 .nav-logo img{
-    width: 100px;
-    height: 100px;
-    margin: 10px; 
+    width:100px;
+    height:100px;
+    margin:10px; 
 }
 #menu-icon{
     display: block;
-    color: #fff;
-    margin: 1rem 0;
+    color:#fff;
+    margin:1rem 0;
     text-align: center;
     cursor: pointer;
 }
 .navbar-menu{
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     text-transform:uppercase;
 }
 .navbar-menu a {
@@ -85,8 +85,7 @@ p{
     padding: 10px;
 }
 
-.navbar-menu a:hover{
-    
+.navbar-menu a:hover{   
     background-color: grey;
 }
 .navber::after{
@@ -204,6 +203,7 @@ p{
 }
 .card-icon{
     text-align: center;
+    
 }
 .card-icon img{
     border: 5px solid white ;
